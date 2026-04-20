@@ -8,7 +8,7 @@
   "server": {
     "ip": "pilgrimagetowest.aternos.me",
     "port": 60622,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
